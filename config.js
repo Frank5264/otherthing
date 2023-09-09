@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['201206178781', 'ɢᴏᴊᴏ', true],
-  ['967780763155', 'BOT', true], 
+  ['201015817243', '꧁『𝑭𝑹𝑨𝑵𝑲 𓅂』꧂', true],
+  ['201553378850', 'BOT', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['201159250900','201206178781'] 
-global.prems = ['201206178781', '201159250900', '967780763155']
+global.mods = ['201015817243','201015817243'] 
+global.prems = ['201015817243', '201015817243', '201553378850']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,17 +47,17 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝐁𝐎𝐓'
+global.botname = '『𝑭𝑹𝑨𝑵𝑲 𓅂』𝐁𝐎𝐓'
 global.premium = 'true'
-global.packname = '𝐁𝐎𝐓' 
-global.author = 'صلي ؏ النبي' 
-global.igfg = 'Follow on Instagram\nhttps://instagram.com/mohamedmostafa4769?igshid=ZGUzMzM3NWJiOQ==\n' 
-global.dygp = 'https://chat.whatsapp.com/JcWLIylfbI5I0wazsJ7xEB'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Mo_yt74'
-global.fgpyp = 'https://youtube.com/@Mo_yt74'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.packname = '꧁『𝑭𝑹𝑨𝑵𝑲 𓅂』𝐁𝐎𝐓 ꧂' 
+global.author = '➬ Dev : Mohamed Salem 👨‍💻' 
+global.igfg = 'Follow on Instagram\nhttps://instagram.com/dev_mohamed_salem?igshid=ZGUzMzM3NWJiOQ==\n' 
+global.dygp = 'https://chat.whatsapp.com/HzidI3ZaLUI4XyFZrBYDlZ'
+global.fgsc = 'https://github.com/Frank5264' 
+global.fgyt = 'https://youtube.com/@f_f_o'
+global.fgpyp = 'https://youtube.com/@f_f_o'
+global.fglog = 'https://logo.frank0m.repl.co/logo.jpg' 
+global.dbase = 'mongodb+srv://frankmoh70:zxcqwe321@bot.fb2soa2.mongodb.net/' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _جاري التحميل..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
